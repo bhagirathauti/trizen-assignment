@@ -20,7 +20,7 @@ A full-stack e-commerce application featuring a sleek modern UI with dark/light 
 ![Homepage Dark Mode](./screenshots/dark-home.png)
 *Smooth dark theme with consistent color palette and excellent contrast*
 
-### Product Cards - Dark Mode
+### Search Results - Dark Mode
 ![Product Cards Dark Mode](./screenshots/dark-product.png)
 *Detailed product cards with star ratings, buy buttons, and hover effects*
 
