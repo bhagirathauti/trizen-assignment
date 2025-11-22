@@ -2,30 +2,30 @@
 
 A full-stack e-commerce application featuring a sleek modern UI with dark/light mode theming, real-time search with autocomplete, advanced filtering, animated hero section, and paginated product browsing. Built with React 19, TypeScript, Node.js, Express, and MongoDB Atlas.
 
-![Trizen Banner](./docs/screenshots/banner.png)
+![Trizen Banner](./screenshots/banner.png)
 
 ---
 
 ## 📸 Screenshots
 
 ### Homepage - Light Mode
-![Homepage Light Mode](./docs/screenshots/light-home.png)
+![Homepage Light Mode](./screenshots/light-home.png)
 *Modern homepage with animated hero section, category filters, and product grid*
 
 ### Search Results - Light Mode  
-![Search Results](./docs/screenshots/light-search.png)
+![Search Results](./screenshots/light-search.png)
 *Real-time search with autocomplete dropdown (max 5 suggestions) and result count*
 
 ### Homepage - Dark Mode
-![Homepage Dark Mode](./docs/screenshots/dark-home.png)
+![Homepage Dark Mode](./screenshots/dark-home.png)
 *Smooth dark theme with consistent color palette and excellent contrast*
 
 ### Product Cards - Dark Mode
-![Product Cards Dark Mode](./docs/screenshots/dark-product.png)
+![Product Cards Dark Mode](./screenshots/dark-product.png)
 *Detailed product cards with star ratings, buy buttons, and hover effects*
 
 ### Mobile Responsive View
-![Mobile Responsive](./docs/screenshots/mobile.png)
+![Mobile Responsive](./screenshots/mobile.png)
 *Fully responsive design optimized for mobile, tablet, and desktop screens*
 
 ---
@@ -111,8 +111,8 @@ A full-stack e-commerce application featuring a sleek modern UI with dark/light 
 
 ### Step 1: Clone Repository
 ```bash
-git clone <repository-url>
-cd Trizen-Assignment
+git clone https://github.com/bhagirathauti/trizen-assignment.git
+cd trizen-assignment
 ```
 
 ### Step 2: Backend Setup
@@ -406,18 +406,6 @@ Trizen-Assignment/
 │   ├── .env                        # Environment variables (not in git)
 │   └── package.json                # Backend dependencies and scripts
 │
-├── docs/                           # Documentation
-│   ├── BACKEND.md                  # Backend API architecture documentation
-│   ├── FRONTEND.md                 # Frontend component documentation
-│   └── screenshots/                # Application screenshots
-│       ├── README.md               # Screenshot capture guide
-│       ├── banner.png              # Homepage banner
-│       ├── light-home.png          # Light mode homepage
-│       ├── light-search.png        # Light mode search results
-│       ├── dark-home.png           # Dark mode homepage
-│       ├── dark-product.png        # Dark mode product cards
-│       └── mobile.png              # Mobile responsive view
-│
 └── README.md                       # This file
 ```
 
@@ -646,9 +634,6 @@ npm run dev
 ## 📚 Additional Documentation
 
 For comprehensive technical documentation, see:
-
-- **[Backend Documentation](./docs/BACKEND.md)** - API design patterns, MVC architecture, database setup, error handling
-- **[Frontend Documentation](./docs/FRONTEND.md)** - Component tree, styling system, state management, responsive design
 
 ---
 
